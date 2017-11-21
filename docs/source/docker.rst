@@ -113,7 +113,7 @@ Image to Docker Cloud
 
 	Below is a screenshot for : ``docker search ubuntu``
 
-	IMAGE.
+	.. image:: https://s3-ap-southeast-1.amazonaws.com/kontikilabs.com/readthedocs/docker-search.png
 
 -	To pull the image ::
 
@@ -123,7 +123,7 @@ Image to Docker Cloud
 
 		$ docker tag IMAGE_ID username/repo_name:tag_Name     
 
--	To push image ::
+-	To push the image ::
 
 		$ docker push username/repo_name:tag_Name    
 
