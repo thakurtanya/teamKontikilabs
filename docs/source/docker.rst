@@ -58,10 +58,10 @@ View all the Images
 
 		The output:
 
- 		REPOSITORY   TAG      IMAGE ID       CREATED         SIZE
- 		----------------------------------------------------------
-		your_name    latest   d6e415a70abf   8 seconds ago   210MB
-		ubuntu       latest   747cb2d60bbe   2 weeks ago     122MB
+ 		REPOSITORY   TAG      IMAGE ID       CREATED          SIZE
+ 		-----------------------------------------------------------
+		your_name    latest   d6e415a70abf   8 seconds ago    210MB
+		ubuntu       latest   747cb2d60bbe   2 weeks ago      122MB
 
 	The above output states that the repository ``ubuntu`` is the base image, because of the ``FROM ubuntu:latest`` command in the Dockerfile.
 
