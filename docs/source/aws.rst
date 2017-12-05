@@ -19,8 +19,6 @@ On selecting the desired Domain, the domain configurations which have already be
 
 A domain search endpoint for uploading data and submitting search requests. Using this, you can access the configuration API and have domain-specific endpoints for accessing the search API.
 
-.. image:: https://s3-ap-southeast-1.amazonaws.com/kontikilabs.com/readthedocs/endpoint.png
-
 **Modify the access policy**
 
 This section lets you allow or block access to your selected domain. You can directly edit the access policy from *'Add or edit the access policy'* or you can opt for any one of the policy templates from the *'Select a template'* dropdown list as displayed below.
